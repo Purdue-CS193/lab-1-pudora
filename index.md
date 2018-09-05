@@ -1,3 +1,8 @@
+# UDORA Neso Philip's first CS193 Lab
+- Bulleted I love that we have awesome instructors in this course
+- Bulleted I love that this course is informative
+- Bulleted I love that this course makes me feel immersed. 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
